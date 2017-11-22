@@ -1,7 +1,7 @@
 {
 	"name": "http-contextual-dispatch",
 	"description": "Call a route function with a context",
-	"version": "0.0.3",
+	"version": "1.0.0",
 	"repository": "paylike/http-contextual-dispatch",
 	"scripts": {
 		"test": "node test"
